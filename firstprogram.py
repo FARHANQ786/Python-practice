@@ -68,11 +68,11 @@ print("the sum of 2 numbers is : ",c)
 #not>and>or
 # and operator kehta hai 1 value bhi false toh answer false
 # or operartor kehta hai ki 1 value bhi true toh answer bhi true
-''' AND  - TT-T
+''' AND  - TT-T  multiply ki tarah kaam krega
          FT-F
          TF-False
          FF-F
-   OR    - TT-T
+   OR    - TT-T addition ki tarah kaam krega
           TF-True
           FT-True
           FF-False'''

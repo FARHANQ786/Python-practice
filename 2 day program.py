@@ -26,7 +26,13 @@ else:
     print("f")'''
 # SINGLE LINE IF/TERNARY OPERATOR
 #<VAR>=<VAL1>IF<CONDITION>ELSE<VAL2> 
-Food=input("enter your dish : ")
-eat="yes" if Food=="cake" else "no" # double equal important
-print(eat)    
+light=input("enetr the ight color :")
+if(light=="green"):
+    print("go")
+elif(light=="yellow"):
+    print("wait")
+elif(light=="red"):
+    print("stop")
+else:
+    print("light is broken")          
         
