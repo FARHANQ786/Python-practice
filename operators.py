@@ -20,17 +20,18 @@
 # print(a>=b)
 # print(a<=b)
 #assignment operators
-num=10
-num+=5 # num=num+5
-print(num)
-num-=5 # num=num-5
-print(num)
-num*=5 # num=num*5
-print(num)
-num/=5 # num=num/5
-print(num) 
-num%=5 # num=num%5
-print(num)
-num**=5 # num=num**5
-print(num)
- 
+# num=10
+# num+=5 # num=num+5
+# print(num)
+# num-=5 # num=num-5
+# print(num)
+# num*=5 # num=num*5
+# print(num)
+# num/=5 # num=num/5
+# print(num) 
+# num%=5 # num=num%5
+# print(num)
+# num**=5 # num=num**5
+# print(num)
+
+
