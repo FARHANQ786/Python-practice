@@ -1,0 +1,5 @@
+# key - valyue pair type information
+dict = {
+    "key" : "value"
+}
+print(dict)

@@ -11,6 +11,6 @@
 
 tuple=(2,1,3,1)
 
-print(tuple.index(2)) # returns the index of first occurrence of 1 in the tuple
+print(tuple.index(3)) # returns the index of first occurrence of 3 in the tuple
 
-print(tuple.count(1)) # returns the number of occurrences of 1 in the tuple
+print(tuple.count(3)) # returns the number of occurrences of 1 in the tuple
