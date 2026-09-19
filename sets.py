@@ -17,15 +17,16 @@ collection.add(44)
 collection.add("rockstar")
 
 
-collection.remove(44)
+# collection.remove(44) # removes spedific item
+# print(collection)
+
 print(collection)
 
-
+print(collection.pop()) # removes random value
 print(collection.pop())
 
 
-
-collection.clear()
+collection.clear()# empties set
 print(collection)
 
 
@@ -33,4 +34,4 @@ set1={1,2,3}
 set2={2,3,4}
 
 print(set1.union(set2)) # {1,2,3,4}
-print(set1.intersection(set2))
+print(set1.intersection(set2)) #{2,3}
