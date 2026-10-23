@@ -6,7 +6,7 @@
 # student=["rockstar", 20, 5.6, "male", True]
 # print(type(student[4]))
 # print(student[4])
-# # list are mutable we can change the values of list
+# list are mutable we can change the values of list
 # print(student[0])
 # student[0]="rofg"
 # print(student)

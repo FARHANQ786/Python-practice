@@ -26,7 +26,7 @@ else:
     print("f")'''
 # SINGLE LINE IF/TERNARY OPERATOR
 #<VAR>=<VAL1>IF<CONDITION>ELSE<VAL2> 
-light=input("enetr the ight color :")
+light=input("enter the ight color :")
 if(light=="green"):
     print("go")
 elif(light=="yellow"):

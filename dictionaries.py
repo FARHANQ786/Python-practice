@@ -65,7 +65,7 @@ student.get("name")
 
 
 
-# to update dictionary
+# # to update dictionary
 student.update({"name":"rock"})
 print(student)
 
